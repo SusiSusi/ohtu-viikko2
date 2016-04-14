@@ -1,7 +1,5 @@
 package ohtu;
 
-import java.util.*;
-
 public class Submission {
 
     private String student_number;
